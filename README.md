@@ -16,6 +16,19 @@ Here are some ideas to get you started:
 -->
 
 
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alsobihi/)  [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/alsobihi)
+[![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/AiAlsobihi)
+
+
+___
+
+
+
+
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap)]()
+
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,python,r,mysql,js,jquery)]()
 
 
 
